@@ -55,5 +55,4 @@ Meu código em Python:
 
 Hello guys! 😎
 
-### Marcando pessoas:
-Como diria @edivinofilho: How 'ou doing?
+
