@@ -54,3 +54,6 @@ Meu código em Python:
 ### Colocando emojis:
 
 Hello guys! 😎
+
+### Marcando pessoas:
+Como diria @edivinofilho: How 'ou doing?
