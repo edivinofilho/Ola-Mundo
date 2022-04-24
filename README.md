@@ -45,3 +45,7 @@ if num % 2 == 0:
 else:
     print(f'O valor {num} é IMPAR.')
 ```
+
+*Ou você pode adicionar uma imagem:*
+Meu código em Python:
+![Teste](https://user-images.githubusercontent.com/103902774/164994467-d0f6556d-cee9-4197-bc9a-b214a3041649.png)
