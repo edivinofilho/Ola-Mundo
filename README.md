@@ -4,6 +4,7 @@
  Repositório criado durante a aula
  
 Esta linha foi adicionada diretamente no GitHub
+---
 
 ## Teste de MD desde o GitHub
 
@@ -20,6 +21,6 @@ Esta linha foi adicionada diretamente no GitHub
 * Teste
 
 **Tarefas:**
-- [] Criar página principal
+- [ ] Criar página principal
 - [x]Criar página da loja
-- []Receber pagamento
+- [ ]Receber pagamento
