@@ -31,3 +31,17 @@ Num | Nome | Nota
 1 | Gustavo | 8,5
 2 | Pedro | 10,0
 3 | Maria | 9,5
+
+### Comandos:
+Olha este comando em JavaScript: `document.getElementById()`
+
+ou várias linhas de codigo:
+
+Olha meu programa em Python:
+```
+num = int(input('Digit um valor: '))
+if num % 2 == 0:
+    print(f'O valor {num} é PAR.')
+else:
+    print(f'O valor {num} é IMPAR.')
+```
