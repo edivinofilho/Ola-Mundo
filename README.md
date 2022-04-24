@@ -50,3 +50,7 @@ else:
 Meu código em Python:
 
 ![Teste](https://user-images.githubusercontent.com/103902774/164994467-d0f6556d-cee9-4197-bc9a-b214a3041649.png)
+
+### Colocando emojis:
+
+Hello guys! 😎
