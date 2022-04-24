@@ -22,5 +22,5 @@ Esta linha foi adicionada diretamente no GitHub
 
 **Tarefas:**
 - [ ] Criar página principal
-- [x]Criar página da loja
-- [ ]Receber pagamento
+- [x] Criar página da loja
+- [ ] Receber pagamento
