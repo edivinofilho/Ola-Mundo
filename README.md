@@ -24,3 +24,10 @@ Esta linha foi adicionada diretamente no GitHub
 - [ ] Criar página principal
 - [x] Criar página da loja
 - [ ] Receber pagamento
+
+### Tabela:
+Num | Nome | Nota
+---|---|---
+1 | Gustavo | 8,5
+2 | Pedro | 10,0
+3 | Maria | 9,5
